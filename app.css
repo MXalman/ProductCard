@@ -114,7 +114,7 @@ body{
     .card{
         flex-direction: column;
         height: 100%;
-        width:60%;
+        width:80%;
     }
     .img-container .img-desktop {
         display: none;
